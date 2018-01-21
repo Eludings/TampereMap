@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Liikuntapaikat</string>
+    <string name="title_activity_maps">Liikuntapaikat</string>
+
+    <string name="info_header">Tampereen liikuntapaikat</string>
+    <string name="info_content">Sovellus käyttää liikuntapaikat.fi / lipas WFS-rajapintapalvelun datan tietoja paikkojen merkitsemiseen kartalle</string>
+    <string name="kayttoehdot">Käyttöehdot</string>
+    <string name="kayttoehdot_content">Urheilupaikat-sovellus on tarkoitettu vain ja ainoastaan urheilupaikkojen paikantamiseen Tampereen alueelta</string>
+</resources>
