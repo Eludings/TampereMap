@@ -12,9 +12,7 @@ import android.widget.TextView;
 
 import org.w3c.dom.Text;
 
-/**
- * Created by it15 on 17.7.2017.
- */
+
 
 public class InfoWindow extends BasicFrag {
     SharedPreferences sPrefs;
