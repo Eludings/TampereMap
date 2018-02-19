@@ -36,6 +36,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+
+//Made by Valtteri Hutri, Joel Rapp and Rolle Alatensiö
+
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback,
         BasicFrag.FragmentStatusListener,
         GoogleMap.OnMapClickListener {
